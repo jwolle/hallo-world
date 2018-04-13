@@ -1,2 +1,3 @@
 # hallo-world
-hi
+
+Hi, I'm Judy and I want to learn some Python.
